@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{4BDE285D-6255-31DD-892D-5E317A962147}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/taoChuShengTian/Scripts/SpriteHealth.cs">
+    <Files>
+      <File FileName="Assets/taoChuShengTian/Scripts/Btnstart.cs" Line="24" Column="1" />
+      <File FileName="Assets/taoChuShengTian/Scripts/Btnchoice.cs" Line="23" Column="1" />
+      <File FileName="Assets/taoChuShengTian/Scripts/Btnexit.cs" Line="19" Column="6" />
+      <File FileName="Assets/taoChuShengTian/Scripts/SceneSetBtnBack.cs" Line="15" Column="3" />
+      <File FileName="Assets/taoChuShengTian/Scripts/text.cs" Line="11" Column="2" />
+      <File FileName="Assets/taoChuShengTian/Scripts/videofollow.cs" Line="33" Column="1" />
+      <File FileName="Assets/taoChuShengTian/Scripts/player.cs" Line="1" Column="1" />
+      <File FileName="../../export.json" Line="81" Column="25" />
+      <File FileName="Assets/taoChuShengTian/Scripts/SpriteHealth.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
